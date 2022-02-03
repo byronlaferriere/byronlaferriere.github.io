@@ -8,8 +8,11 @@ in private, to help us begin practicing how to articulate our actions and highli
 ## Code Review
 [Link](https://youtu.be/y_8ILNFcAPo)
 
+## Enhancement One
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
