@@ -1,6 +1,10 @@
                                                 #Welcome to Byron Laferriere's personal ePortfolio
 
-You can use the [editor on GitHub](https://github.com/byronlaferriere/byronlaferriere.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is the Capstone course for my Computer Science degree from Southern New Hampshire University. For this project, we are asked to go back and re-work three projects
+that we previously completed and make enhancements to them that align with the class objectives and outcomes. The first thing we needed to do was conduct a code review,
+to begin practicing what is done in many professional settings. Although this is usually performed in front of others, this was a personal and less formal code review performed
+in private, to help us begin practicing how to articulate our actions and highlight the skills obtained/highlighted in doing so.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
