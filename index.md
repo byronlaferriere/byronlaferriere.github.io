@@ -12,46 +12,26 @@ in private, to help us begin practicing how to articulate our actions and highli
 ## Enhancement One
 The artifact selected for Enhancement One is a website that was created in my Full Stack Development One class. This class was taken over four months ago now and was meant to teach me about the difference between hardcoded static websites and the high functionality of dynamic websites. In this project I created a M.E.A.N. stack application that uses MongoDB for the database, Express and Node.js for the backend and Angular for the frontend development. I believe that this artifact belongs in my portfolio as a software engineer because of its envelopment of many core practices in both design and development. This artifact required me to create a database to store company files, usernames and details, and available trip information, then link this database to a backend application that was comprised of Node.js and Express HTML. I used concepts like Bootstrap and Handlebars to make my codebase more efficient and less redundant. Then I created an Angular application that needed to communicate to the backend and the database to pull the information displayed on the page. I used Single Page Application (SPA) architecture to ensure that my page did not experience long load times and push customers away. This project also used Postman to check our API endpoints, which included the creation of JSON Web Tokens for Java. Here, we created an administrative account which had CRUD capabilities for the website. Initially, the project had a blank home page that only asked users to sign in to continue. My enhancements included commenting out the code base, getting rid of uused code, creating a new home page that would attract new users, and adding security to the JSON Web Tokens used.
 
-![Image](byronlaferriere.github.io/images/Screenshot(386).png) 
-![Image](byronlaferriere.github.io/images/Screenshot(387).png)
-![Image](byronlaferriere.github.io/images/Screenshot(388).png)
-![Image](byronlaferriere.github.io/images/Screenshot(389).png)
-![Image](byronlaferriere.github.io/images/Screenshot(391).png)
+![Image](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/images/Screenshot%20(386).png) 
+![Image](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/images/Screenshot%20(387).png)
+![Image](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/images/Screenshot%20(388).png)
+![Image](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/images/Screenshot%20(389).png)
+![Image](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/images/Screenshot%20(391).png)
 
 [Link to Narrative]()
 [Link to Project Files]()
 
 ## Enhancement Two
+The artifact chosen for Milestone Two was a Final Paper that reviewed the labs performed during the semester and asked us to explain why these labs indicated our retention of knowledge and understanding. This project was first completed last year around this exact month for our Data Structures and Algorithms class. In these labs, we were asked to implement different types of structures and algorithms versus two different sized .CSV files. One of these files contained the bids for the month of December and the other contained the bids for the entire year. The second file was nominally larger and would require different choices to be made when handling. Initially, I planned to rework the data structures and algorithms used in these programs, to update some of the chosen concepts, but I realized after conducting much research why the chosen structures and algorithms were the best per scenario. What I opted to do after realizing this, was to go through and rework my final paper to include proper justifications of why each was chosen and explain why they outperform the other types of structures and algorithms in each use case. 
+
+## Enhancement Three
+The artifact chosen for this final category was completed in the Fundamentals of Data Mining class, which was taken last February. During this class we explored the basics of JMP and used a sample data set for a company named Bubba Gump Shrimp Company. This company was looking for ways to increase future sales and needed this data to be cleaned and analyzed for potential routes that could be taken. One of the main issues I noticed while completing the class was that the data required someone with both statistical analysis knowledge and a firm understanding of how JMP worked to actually investigate the situation. My solution to this issue, was to create a user-friendly API that had access to the same database, which would allow for just about anyone to be able to categorize data accordingly and find potential patterns for exploitation.
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/byronlaferriere/byronlaferriere.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
