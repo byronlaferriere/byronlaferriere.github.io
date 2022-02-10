@@ -6,7 +6,7 @@ to begin practicing what is done in many professional settings. Although this is
 in private, to help us begin practicing how to articulate our actions and highlight the skills obtained/highlighted in doing so.
 
 ## Code Review
-<iframe width="560" height="315" src="https://youtu.be/y_8ILNFcAPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y_8ILNFcAPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Click here to go to the YouTube page](https://youtu.be/y_8ILNFcAPo)
 
 ## Enhancement One
