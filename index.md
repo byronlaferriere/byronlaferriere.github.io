@@ -6,11 +6,11 @@ to begin practicing what is done in many professional settings. Although this is
 in private, to help us begin practicing how to articulate our actions and highlight the skills obtained/highlighted in doing so.
 
 ## Code Review
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y_8ILNFcAPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/watch?v=y_8ILNFcAPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Click here to go to the YouTube page](https://youtu.be/y_8ILNFcAPo)
 
 ## Enhancement One
-
+The artifact selected for Enhancement One is a website that was created in my Full Stack Development One class. This class was taken over four months ago now and was meant to teach me about the difference between hardcoded static websites and the high functionality of dynamic websites. In this project I created a M.E.A.N. stack application that uses MongoDB for the database, Express and Node.js for the backend and Angular for the frontend development. I believe that this artifact belongs in my portfolio as a software engineer because of its envelopment of many core practices in both design and development. This artifact required me to create a database to store company files, usernames and details, and available trip information, then link this database to a backend application that was comprised of Node.js and Express HTML. I used concepts like Bootstrap and Handlebars to make my codebase more efficient and less redundant. Then I created an Angular application that needed to communicate to the backend and the database to pull the information displayed on the page. I used Single Page Application (SPA) architecture to ensure that my page did not experience long load times and push customers away. This project also used Postman to check our API endpoints, which included the creation of JSON Web Tokens for Java. Here, we created an administrative account which had CRUD capabilities for the website. 
 
 
 
