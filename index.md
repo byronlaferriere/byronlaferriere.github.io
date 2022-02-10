@@ -18,7 +18,7 @@ The artifact selected for Enhancement One is a website that was created in my Fu
 ![Rooms](byronlaferriere.github.io/docs/assets/rooms.png)
 ![Security](byronlaferriere.github.io/docs/assets/security.png)
 
-[Link to Narrative]()
+[Link to Full Narrative](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementOne/Enhancement%20One.docx)
 [Link to Project Files]()
 
 ## Enhancement Two
