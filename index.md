@@ -30,7 +30,8 @@ The artifact chosen for Milestone Two was a Final Paper that reviewed the labs p
 ## Enhancement Three
 The artifact chosen for this final category was completed in the Fundamentals of Data Mining class, which was taken last February. During this class we explored the basics of JMP and used a sample data set for a company named Bubba Gump Shrimp Company. This company was looking for ways to increase future sales and needed this data to be cleaned and analyzed for potential routes that could be taken. One of the main issues I noticed while completing the class was that the data required someone with both statistical analysis knowledge and a firm understanding of how JMP worked to actually investigate the situation. My solution to this issue, was to create a user-friendly API that had access to the same database, which would allow for just about anyone to be able to categorize data accordingly and find potential patterns for exploitation.
 
-
+[Link to Full Narrative]()
+[Link to Project Files]()
 
 
 [Link](url) and ![Image](src)
