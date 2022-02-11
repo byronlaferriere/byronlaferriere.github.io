@@ -1,0 +1,14 @@
+<!--
+  replacing old pipeline to display trips with new Angular If loop that checks if user is logged in. If so then when
+  trips page is clicked, it will display the available trips with some more info
+-->
+
+<div *ngIf="isLoggedIn()">
+  <button (click)="addTrip()" class="btn btn-info"> Add Trip</button>
+</div>
+<div class="row">
+    <div *ngFor="let trip of trips">
+      <app-trip-card [trip]="trip" class="card-deck mt-2"></app-trip-card>
+
+    </div>
+</div>

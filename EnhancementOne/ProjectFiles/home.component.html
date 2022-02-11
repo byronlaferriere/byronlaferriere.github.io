@@ -1,0 +1,156 @@
+<!-- This uses an Angular IF() loop to check if the user is logged in
+Since I am catering my new updates to new users, I chose to add these implementations to the page that displays when users are not
+logged in-->
+<div class="container" *ngIf="!isLoggedIn()">
+  <br/>
+  <!-- This home page will now display more than asking the user to login
+  The goal of the new home page will be to advertise potential trips
+and display customer experiences to encourage new customers to sign up-->
+
+<header>
+  <a href="src/assets/images/sea-sound.jpg">
+    <img src="src/assets/images/sea-sound.jpg" alt="Beach" style="width:100%">
+  </a>
+</header>  
+
+<!-- Creating my page introduction-->   
+<h2>
+    <p class="text-info">Welcome to Travlr Getaways!</p> 
+  </h2>
+<!-- Seperating opening headline from desired text-->
+  <blockquote class="blockquote">
+    <p class="mb-0">If you are a member please click login to continue booking your next adventure!. Otherwise, please feel free to browse
+    through our trips to see if one is right for you! Consider joining our website to begin earning trip credits today.
+  </p>
+</blockquote>
+<!-- Adding new section to the code which displays images of trips available -->
+<div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="http://localhost:4200/list-trips">
+        <img src="src/assets/images/reef1.jpg" alt="Reef1" style="width:100%">
+        <div class="caption">
+          <p>Our Gale Reef Adventure at Emerald Bay. Rated 3 Stars. 4 nights and 5 days!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="http://localhost:4200/list-trips">
+        <img src="src/assets/images/reef2.jpg" alt="Reef2" style="width:100%">
+        <div class="caption">
+          <p>Our Dawson's Reef Adventure at Blue Lagoon. Rated 4 Stars. 4 nights and 5 days!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="http://localhost:4200/list-trips">
+        <img src="src/assets/images/reef3.jpg" alt="Reef3" style="width:100%">
+        <div class="caption">
+          <p>Our Claire's Reef Adventure at Coral Sands. Rated 5 Stars. 4 nights and 5 days!</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<p></p>
+<p></p>
+
+<!-- Now Im going to add some pictures of food available on the trip for customers-->
+<div class="p-3 mb-2 bg-primary text-white text-center">Check out some of the delicious meals to expect!
+  
+</div>
+<p></p>
+
+<p></p>
+<a href="src/assets/images/buffet.jpg">
+  <img src="src/assets/images/buffet.jpg" alt="buffet" style="width:100%">
+</a>
+<p></p>
+<a href="src/assets/images/seafoods.jpg">
+  <img src="src/assets/images/seafoods.jpg" alt="seafoods" style="width:100%">
+</a>
+<p></p>
+<a href="src/assets/images/desserts.jpg">
+  <img src="src/assets/images/desserts.jpg" alt="desserts" style="width:100%">
+</a>
+<p></p>
+<p></p>
+<!-- Introducing new section displaying lodging options for customers-->
+<div class="p-3 mb-2 bg-primary text-white text-center">Different room packages available for your needs!
+  </div>
+  <p></p>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="src/assets/images/suite.jpg">
+          <img src="src/assets/images/suite.jpg" alt="Lights" style="width:100%">
+          <div class="caption">
+            <p>Suite rooming options</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="src/assets/images/deluxe.jpg">
+          <img src="src/assets/images/deluxe.jpg" alt="Nature" style="width:100%">
+          <div class="caption">
+            <p>Deluxe rooming options</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="src/assets/images/first-class.jpg">
+          <img src="src/assets/images/first-class.jpg" alt="Fjords" style="width:100%">
+          <div class="caption">
+            <p>Premier rooming options</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <p></p>
+  <p></p>
+
+<!-- This section will now add some customer reviews and experiement with different bootstrap font styles and layouts-->
+<div class="p-3 mb-2 bg-primary text-white text-center">Read some of our customers reviews for yourself!
+  
+</div>
+<blockquote class="blockquote text-center">
+  <p class="mb-0">I took my family on the Dawson's Reef Adventure and everyone had a great time. 
+    Lots of things to do for kids and adults alike. This was a vacation of a lifetime!</p>
+  <footer class="blockquote-footer"> Janet G. (49) New Hampshire, US</footer>
+</blockquote>
+<p>
+  </p>
+  <blockquote class="blockquote text-center">
+    <p class="mb-0">I took my family on the Claire's Reef Adventure and everyone had a great time. 
+      Lots of things to do for kids and adults alike. This was a vacation of a lifetime!</p>
+    <footer class="blockquote-footer"> Judy G. (42) Florida, US</footer>
+  </blockquote>
+  <p>
+  </p>
+  <blockquote class="blockquote text-center">
+    <p class="mb-0">I took my family on the Gale Reef Adventure and everyone had a great time. 
+      Lots of things to do for kids and adults alike. This was a vacation of a lifetime!</p>
+    <footer class="blockquote-footer"> Susan G. (33) Georgia, US</footer>
+  </blockquote>
+</div> 
+<div>
+  <p>
+
+  </p>
+  <p></p>
+</div>
+<div id="footer">
+  
+  <footer class="footer">
+    © 2023 by Byron Laferriere: Travlr Getaways. All Rights Reserved
+  </footer>
+</div>
