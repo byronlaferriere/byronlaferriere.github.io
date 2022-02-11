@@ -12,11 +12,11 @@ in private, to help us begin practicing how to articulate our actions and highli
 ## Enhancement One
 The artifact selected for Enhancement One is a website that was created in my Full Stack Development One class. This class was taken over four months ago now and was meant to teach me about the difference between hardcoded static websites and the high functionality of dynamic websites. In this project I created a M.E.A.N. stack application that uses MongoDB for the database, Express and Node.js for the backend and Angular for the frontend development. This artifact required me to create a database to store company files, usernames and details, and available trip information, then link this database to a backend application that was comprised of Node.js and Express HTML. I used concepts like Bootstrap and Handlebars to make my codebase more efficient and less redundant. Then I created an Angular application that needed to communicate to the backend and the database to pull the information displayed on the page. I used Single Page Application (SPA) architecture to ensure that my page did not experience long load times and push customers away. This project also used Postman to check our API endpoints, which included the creation of JSON Web Tokens for Java. Here, we created an administrative account which had CRUD capabilities for the website. Initially, the project had a blank home page that only asked users to sign in to continue. My enhancements included commenting out the code base, getting rid of uused code, creating a new home page that would attract new users, and adding security to the JSON Web Tokens used.
 
-![Banner](byronlaferriere.github.io/docs/assets/banner.png) 
-![Trips](byronlaferriere.github.io/docs/assets/trips.png)
-![Foods](byronlaferriere.github.io/docs/assets/foods.png)
-![Rooms](byronlaferriere.github.io/docs/assets/rooms.png)
-![Security](byronlaferriere.github.io/docs/assets/security.png)
+![Banner]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/banner.png }}/docs/assets/banner.png) 
+![Trips]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/trips.png }}/docs/assets/trips.png)
+![Foods]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/foods.png }}/docs/assets/foods.png)
+![Rooms]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/rooms.png }}/docs/assets/rooms.png)
+![Security]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/security.png }}/docs/assets/security.png)
 
 [Link to Full Narrative](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementOne/Enhancement%20One.docx)
 [Link to Project Files](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementOne/ProjectFiles)
