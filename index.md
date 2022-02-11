@@ -32,7 +32,6 @@ The artifact chosen for this final category was completed in the Fundamentals of
 
 
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
