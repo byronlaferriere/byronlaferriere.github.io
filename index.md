@@ -33,6 +33,20 @@ The artifact chosen for this final category was completed in the Fundamentals of
 [Link to Full Narrative]()
 [Link to Project Files]()
 
+## Professional Self Assessment
+•	Discuss how completing your coursework throughout the program and developing the ePortfolio has helped showcased your strengths and shape your professional goals and values and prepared you to either enter or become more employable in the computer science field. Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio. Please address following topics:
+
+1.	collaborating in a team environment
+2.	communicating to stakeholders
+3.	data structures and algorithms
+4.	software engineering
+5.	database
+6.	security 
+
+Note: This should function as an overall introduction to your skills and you will become more specific relative to the included artifacts in the next section. 
+
+•	Summarize/introduce how your artifacts fit together and inform the portfolio as a whole; this will help demonstrate the full range of your computer science talents and abilities? This section should introduce your audience to the technical artifacts that will follow the professional self-assessment.
+
 
 [Link](url) and ![Image](src)
 
