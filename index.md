@@ -53,7 +53,7 @@ Note: This should function as an overall introduction to your skills and you wil
 •	Summarize/introduce how your artifacts fit together and inform the portfolio as a whole; this will help demonstrate the full range of your computer science talents and abilities? This section should introduce your audience to the technical artifacts that will follow the professional self-assessment.
 
 
-[Link](url) and ![Image](src)
+
 
 
 
