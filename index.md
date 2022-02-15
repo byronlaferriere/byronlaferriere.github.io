@@ -21,12 +21,14 @@ The artifact selected for Enhancement One is a website that was created in my Fu
 ![Security]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/security.png }}/docs/assets/security.png)<br/> 
 
 <p>&nbsp;</p>
+[Link to the Original Project Files](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementOne/ProjectFiles/Originals)
 [Link to Full Narrative](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementOne/Enhancement%20One.docx)<br/> 
-[Link to Project Files](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementOne/ProjectFiles)<br/> 
+[Link to Enhanced Project Files](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementOne/ProjectFiles)<br/> 
 <p>&nbsp;</p>
 ## Enhancement Two
 The artifact chosen for Milestone Two was a Final Paper that reviewed the labs performed during the semester and asked us to explain why these labs indicated our retention of knowledge and understanding. This project was first completed last year around this exact month for our Data Structures and Algorithms class. In these labs, we were asked to implement different types of structures and algorithms versus two different sized .CSV files. One of these files contained the bids for the month of December and the other contained the bids for the entire year. The second file was nominally larger and would require different choices to be made when handling. Initially, I planned to rework the data structures and algorithms used in these programs, to update some of the chosen concepts, but I realized after conducting much research why the chosen structures and algorithms were the best per scenario. What I opted to do after realizing this, was to go through and rework my final paper to include proper justifications of why each was chosen and explain why they outperform the other types of structures and algorithms in each use case.
 <p>&nbsp;</p>
+[Link to the Original Project Paper]()
 [Link to Full Narrative](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementTwo/Enhancement%20Two.docx)<br/> 
 [Link to Proof of Concept Paper](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementTwo/(DSA)%20Final%20Project.docx)<br/> 
 <p>&nbsp;</p>
