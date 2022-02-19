@@ -20,7 +20,7 @@ The artifact selected for Enhancement One is a website that was created in my Fu
 ![Trips]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/trips.png }}/docs/assets/trips.png)<br/> 
 ### I inserted some pictures of the meals that were available on the trips
 ![Foods]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/foods.png }}/docs/assets/foods.png)<br/> 
-### I added some pictures of room packages that could be chosen
+### I added some pictures of room packages that could be chosen and a user reviews section
 ![Rooms]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/rooms.png }}/docs/assets/rooms.png)<br/> 
 ### I added a token revocation process to timeout users after a certain amount of time
 ![Security]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/security.png }}/docs/assets/security.png)<br/> 
@@ -40,9 +40,11 @@ The artifact chosen for Milestone Two was a Final Paper that reviewed the labs p
 ## Enhancement Three
 The artifact chosen for this final category was completed in the Fundamentals of Data Mining class, which was taken last February. During this class we explored the basics of JMP and used a sample data set for a company named Bubba Gump Shrimp Company. This company was looking for ways to increase future sales and needed this data to be cleaned and analyzed for potential routes that could be taken. One of the main issues I noticed while completing the class was that the data required someone with both statistical analysis knowledge and a firm understanding of how JMP worked to actually investigate the situation. My solution to this issue, was to create a user-friendly API that had access to the same database, which would allow for just about anyone to be able to categorize data accordingly and find potential patterns for exploitation. The new API would need to have a username and password entered, in order to access the page. Once entered, the user can categorize data by radio buttons and quickly check out the location on a map.
 <p>&nbsp;</p>
-
+### Prompting web traffic to sign in
 ![UserLogin]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/userLogin.png }}/docs/assets/userLogin.png)<br/> 
+### The new Dashboard for the company
 ![Dashboard]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/dashboard.png }}/docs/assets/dashboard.png)<br/> 
+### A map that links to highlighted locations on the dataframe
 ![Geolocation]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/geolocation.png }}/docs/assets/geolocation.png)<br/> 
 [Link to Original Project](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementThree/Originals)<br/>
 [Link to Full Narrative](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementThree/Enhancement%20Three.docx)<br/> 
