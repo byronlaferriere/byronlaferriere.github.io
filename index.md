@@ -40,7 +40,7 @@ The artifact chosen for this final category was completed in the Fundamentals of
 ![Dashboard]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/dashboard.png }}/docs/assets/dashboard.png)<br/> 
 ![Geolocation]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/geolocation.png }}/docs/assets/geolocation.png)<br/> 
 [Link to Original Project](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementThree/Originals)<br/>
-[Link to Full Narrative]()<br/> 
+[Link to Full Narrative](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementThree/Enhancement%20Three.docx)<br/> 
 [Link to Project Files](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementThree)<br/> 
 <p>&nbsp;</p>
 ## Professional Self Assessment
