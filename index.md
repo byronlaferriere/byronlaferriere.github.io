@@ -14,10 +14,15 @@ in private, to help us begin practicing how to articulate our actions and highli
 The artifact selected for Enhancement One is a website that was created in my Full Stack Development One class. This class was taken over four months ago now and was meant to teach me about the difference between hardcoded static websites and the high functionality of dynamic websites. In this project I created a M.E.A.N. stack application that uses MongoDB for the database, Express and Node.js for the backend and Angular for the frontend development. This artifact required me to create a database to store company files, usernames and details, and available trip information, then link this database to a backend application that was comprised of Node.js and Express HTML. I used concepts like Bootstrap and Handlebars to make my codebase more efficient and less redundant. Then I created an Angular application that needed to communicate to the backend and the database to pull the information displayed on the page. I used Single Page Application (SPA) architecture to ensure that my page did not experience long load times and push customers away. This project also used Postman to check our API endpoints, which included the creation of JSON Web Tokens for Java. Here, we created an administrative account which had CRUD capabilities for the website. Initially, the project had a blank home page that only asked users to sign in to continue. My enhancements included commenting out the code base, getting rid of unused code, creating a new home page that would attract new users, and adding security to the JSON Web Tokens used by implementing a token revocation.
 
 <p>&nbsp;</p>
+### The new home page
 ![Banner]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/banner.png }}/docs/assets/banner.png)<br/> 
+### I added trip pictures with hyperlinks to the Trips page that contained more information
 ![Trips]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/trips.png }}/docs/assets/trips.png)<br/> 
+### I inserted some pictures of the meals that were available on the trips
 ![Foods]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/foods.png }}/docs/assets/foods.png)<br/> 
+### I added some pictures of room packages that could be chosen
 ![Rooms]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/rooms.png }}/docs/assets/rooms.png)<br/> 
+### I added a token revocation process to timeout users after a certain amount of time
 ![Security]({{ https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/docs/assets/security.png }}/docs/assets/security.png)<br/> 
 
 <p>&nbsp;</p>
