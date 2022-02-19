@@ -5,6 +5,25 @@ that we previously completed and make enhancements to them that align with the c
 to begin practicing what is done in many professional settings. Although this is usually performed in front of others, this was a personal and less formal code review performed
 in private, to help us begin practicing how to articulate our actions and highlight the skills obtained/highlighted in doing so.
 
+## Professional Self Assessment
+The Computer Science Capstone course has refined my personal skills in six desirable categories this semester. It has taught me to think critically about my strengths and weaknesses and learn to articulate how I either exemplified them or needed to continue expanding them. The skills learned this semester will be extremely beneficial in my career. By learning to communicate the specific changes I have made and how they exhibit my value, it will help me demonstrate value to a company and create job security. 
+
+The first of these personal skills I have enhanced this semester is in the field of collaboration in team environments. As the world shifts to remote work, the focus on this has grown to help replace the productivity seen in office settings. This semester I created well-documented projects that would make it easy for my future teammates to read through. I also covered thorough documentation and began practicing code reviews. These are very important aspects of collaborating on team projects and will valuable skills to have harnessed already, in my future. The next personal skill that I developed this semester was an ability to communicate clearly to stakeholders. By clearly communicating my additions and the value that they add to projects, as well as future completions and additions that will be added, I have learned the ability to provide clear evidence of value and business solutions to stakeholders. The third personal skill that I developed this semester was in data structures and algorithms. My enhancement in this category was a newly developed paper that explained in quantifiable metrics why each structure or algorithm chosen in my labs was the best fit. Doing this, built a better understanding of these categories and allowed me to add in some knowledge from later classes. The fourth valuable personal skill developed this semester was in software engineering. I reworked past projects and added new features and enhanced security. This allowed me to continue expanding my previous knowledge and add to my personal arsenal to prepare for future projects. The fifth personal skill I developed further was in databasing. I worked a project and create a client and server that could use the database and present data in an API form. The final skill I enhanced this semester was in security. I did not have much practice with this important skill and had the chance to incorporate security features in two separate projects. All of these skills mentioned will be valuable to myself in the future, as well as my employers.
+ 
+
+When I began this semester, I struggled to see how these three projects that we were working on would amalgamate. Now that the enhancements are finished, I see how much growth I have experienced from doing so. Each enhancement had me working towards a different course outcome that took some time to realize. This course highlighted five outcomes, both critical and valuable in the field of computer, that I was to work towards and have my work exemplify mastery and demonstration of completion. The artifacts cover the fields of software engineering/development, databases, and data structures and algorithms. These three pieces represent my solid understanding of the fundamentals of computer science.
+
+Course Outcome 1: I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science by completing the enhancement for the databases category, in Enhancement Three. I developed a working API that could be leveraged and accessed by authorized employees and did not require a statistical analysis background to do so. Users could aggregate data to make informed decisions on potentially exploitable markets for future expansion through the API.
+
+Course Outcome 2: I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by completing the Proof-of-Concept paper in Enhancement Two. This enhancement used quantifiable metrics to compare and contrast available data structures and algorithms and explain why the used options were the best available. I included visualizations to further my argument and made excellent defensive arguments for my choices.
+
+Course Outcome 3: I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices by completing the Proof-of-Concept paper in Enhancement Two. This enhancement used quantifiable metrics to compare and contrast available data structures and algorithms and explain why the used options were the best available. I included visualizations to further my argument and made excellent defensive arguments for my choices.
+
+Course Outcome 4: I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by completing my API linked to a database in Enhancement Three. This API used Python, Pandas, Numpy, Plotly, and Dash to deliver a valuable business solution. The API provides the business data mining capabilities without paying for programs to perform data aggregations.
+
+Course Outcome 5: I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by adding a token revocation method to JSON Web Tokens in Enhancement One. This method implemented a time-based revocation process that would ask the user to sign back in after a certain amount of time. I also implemented security to my API by adding a login screen that was required to be completed before the page would load in Enhancement Three. This protected the company’s proprietary information from unauthorized access. These enhancements demonstrate the completion of this outcome.
+
+
 ## Code Review
 [Click here to go to the YouTube page](https://youtu.be/y_8ILNFcAPo)
 
@@ -50,19 +69,7 @@ The artifact chosen for this final category was completed in the Fundamentals of
 [Link to Full Narrative](https://github.com/byronlaferriere/byronlaferriere.github.io/blob/main/EnhancementThree/Enhancement%20Three.docx)<br/> 
 [Link to Project Files](https://github.com/byronlaferriere/byronlaferriere.github.io/tree/main/EnhancementThree)<br/> 
 <p>&nbsp;</p>
-## Professional Self Assessment
-•	Discuss how completing your coursework throughout the program and developing the ePortfolio has helped showcased your strengths and shape your professional goals and values and prepared you to either enter or become more employable in the computer science field. Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio. Please address following topics:
 
-1.	collaborating in a team environment
-2.	communicating to stakeholders
-3.	data structures and algorithms
-4.	software engineering
-5.	database
-6.	security 
-
-Note: This should function as an overall introduction to your skills and you will become more specific relative to the included artifacts in the next section. 
-
-•	Summarize/introduce how your artifacts fit together and inform the portfolio as a whole; this will help demonstrate the full range of your computer science talents and abilities? This section should introduce your audience to the technical artifacts that will follow the professional self-assessment.
 
 
 
