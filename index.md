@@ -3,7 +3,7 @@
 This is the Capstone project for my Computer Science degree from Southern New Hampshire University. For this project, we are asked to go back and re-work three projects
 that we previously completed and make enhancements to them that align with the class objectives and outcomes. The first thing we needed to do was conduct a code review,
 to begin practicing what is done in many professional settings. Although this is usually performed in front of others, this was a personal and less formal code review performed
-in private, to help us begin practicing how to articulate our actions and highlight the skills obtained/highlighted in doing so.
+in private, to help us begin practicing how to articulate our actions and highlight the skills obtained/highlighted in doing so. Next, we completed our enhancements that were proposed in these three categories and then completed a self-assessment to further the process of identifying our skills and highlighting our work completed.
 
 ## Professional Self Assessment
 The Computer Science Capstone course has refined my personal skills in six desirable categories this semester. It has taught me to think critically about my strengths and weaknesses and learn to articulate how I either exemplified them or needed to continue expanding them. The skills learned this semester will be extremely beneficial in my career. By learning to communicate the specific changes I have made and how they exhibit my value, it will help me demonstrate value to a company and create job security. 
